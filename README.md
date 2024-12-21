@@ -1,2 +1,3 @@
 # ubiquitous-system
-This has my codes for data structures and algorithms
+# CHANGELOG
+HARDW-1 : Initialising the code base.
